@@ -32,6 +32,8 @@ git clone --recursive https://github.com/The-OpenROAD-Project/OpenROAD-flow-scri
 cd OpenROAD-flow-scripts
 ```
 
+![image alt](https://github.com/harishj123/RISC-V_Soc_Tape_out_week_5/blob/main/week%205/git%20clone.jpg?raw=true)
+
 ---
 
 ### 🔧 2. Run the Setup Script
