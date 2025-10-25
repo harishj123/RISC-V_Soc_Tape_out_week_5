@@ -44,6 +44,8 @@ This installs all dependencies and prepares the environment.
 sudo ./setup.sh
 ```
 
+![image alt](https://github.com/harishj123/RISC-V_Soc_Tape_out_week_5/blob/main/week%205/setup%20script.jpg?raw=true)
+
 ---
 
 ### 🏗️ 3. Build OpenROAD
