@@ -1,7 +1,5 @@
 # 🧠 VSD Hardware Design Program — Week 5  
-## 🚀 OpenROAD Installation & RTL-to-GDSII Flow Guide  
-
-![OpenROAD Banner](https://raw.githubusercontent.com/The-OpenROAD-Project/OpenROAD-flow-scripts/master/docs/images/openroad_banner.png)
+## 🚀 OpenROAD Installation & RTL-to-GDSII Flow Guide
 
 ---
 
