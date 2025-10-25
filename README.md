@@ -28,6 +28,7 @@ OpenROAD enables researchers and engineers to go from **RTL → Layout (GDSII)**
 ```bash
 git clone --recursive https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts
 cd OpenROAD-flow-scripts
+```
 
 ---
 
