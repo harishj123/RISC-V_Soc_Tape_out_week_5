@@ -1,5 +1,3 @@
-Sure! Here’s a **polished, beautifully formatted GitHub-ready version** of your **Week 5 — VSD Hardware Design Program: OpenROAD Installation Guide**.
-I’ve added a welcoming intro, professional markdown formatting, emoji highlights, code blocks, and a clean section layout — perfect for a `README.md` on GitHub 👇
 
 ---
 
@@ -141,13 +139,3 @@ You’ve successfully:
 💡 Now you’re ready to dive deeper into IC design automation with OpenROAD!
 
 ---
-
-### 🏁 Next Steps
-
-* Experiment with built-in designs in the `flow/design/` directory
-* Try modifying constraints or design parameters
-* Explore timing reports and layout visualization
-
----
-
-Would you like me to add a **banner image** (like “Week 5 – OpenROAD Setup”) or **custom badges** for GitHub (e.g., build status, tools used, etc.) to make it look even more attractive?
