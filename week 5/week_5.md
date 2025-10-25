@@ -93,6 +93,10 @@ Visualize your final chip layout in the OpenROAD GUI:
 make gui_final
 ```
 
+![image alt](https://github.com/harishj123/RISC-V_Soc_Tape_out_week_5/blob/main/week%205/gui_final.jpg?raw=true)
+
+
+
 🎉 **Installation Complete!**
 You can now explore and experiment with the **full RTL-to-GDSII flow** using **OpenROAD**.
 
