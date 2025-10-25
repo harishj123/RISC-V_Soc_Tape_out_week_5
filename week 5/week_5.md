@@ -23,13 +23,6 @@ It’s widely used for **academic research** and **industry prototyping**, allow
 
 ---
 
-## 📚 Contents
-
-1. [Steps to Install OpenROAD and Run GUI](#steps-to-install-openroad-and-run-gui)
-2. [ORFS Directory Structure and File Formats](#orfs-directory-structure-and-file-formats)
-
----
-
 ## ⚙️ Steps to Install OpenROAD and Run GUI
 
 ### 🧩 1. Clone the OpenROAD Repository
