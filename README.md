@@ -22,6 +22,7 @@ OpenROAD enables researchers and engineers to go from **RTL → Layout (GDSII)**
 
 ## 📂 Click Below
 
-![Week 5](https://github.com/harishj123/RISC-V_Soc_Tape_out_week_5/blob/main/week%205/week5_banner.png)
+[![Week 5](https://github.com/harishj123/RISC-V_Soc_Tape_out_week_5/blob/main/week%205/week5_banner.png)](https://github.com/harishj123/RISC-V_Soc_Tape_out_week_5/tree/main/week%205)
+
 
 ---
